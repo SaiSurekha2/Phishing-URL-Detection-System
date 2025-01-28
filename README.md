@@ -9,3 +9,4 @@ To install the required packages and libraries, run this command in the project 
 pip install -r requirements.txt
 # Technologies Used
 
+

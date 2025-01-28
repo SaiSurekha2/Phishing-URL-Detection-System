@@ -1,5 +1,6 @@
 # -Phishing-URL-Detection-System
-![Screenshot (175)](https://github.com/user-attachments/assets/cbcd2bcf-98dd-4ecb-a8af-ac97567db569)
+![image](https://github.com/user-attachments/assets/b7f70775-59b9-4b2b-beb6-2d8a7418e191)
+
 
 
 # Objective

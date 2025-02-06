@@ -8,5 +8,5 @@ A phishing website is a common social engineering method that mimics trustful un
 To install the required packages and libraries, run this command in the project directory after Forking and cloning this repository:
 pip install -r requirements.txt
 # Technologies Used
-
+Machine learning
 
